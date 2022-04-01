@@ -9,6 +9,7 @@ function mathOperation(arg1, arg2, operation) {
         case 'multy':
             return multy(arg1 * arg2);
     }
+
 }
 
 
