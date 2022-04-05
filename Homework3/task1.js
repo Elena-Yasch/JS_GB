@@ -25,3 +25,4 @@ while (counter <= max_ind) {
     counter++;
 }
 console.log(simple_num);
+
